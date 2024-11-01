@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zip.li Retweet 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-24 15:20-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: w3invent <daniel.w3invent@gmail.com>\n"
+"Language-Team: Apiki Team <apiki@apiki.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../zipli-retweet-settings.php:14
+msgid "Settings Updated"
+msgstr "Configurações atualizadas"
+
+#: ../../zipli-retweet-settings.php:19
+#: ../../zipli-retweet.php:65
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../../zipli-retweet-settings.php:24
+msgid "Retweet Button:"
+msgstr "Botão de Retweet"
+
+#: ../../zipli-retweet-settings.php:28
+msgid "No"
+msgstr "Não"
+
+#: ../../zipli-retweet-settings.php:29
+msgid "Yes"
+msgstr "Sim"
+
+#: ../../zipli-retweet-settings.php:31
+msgid "Retweet button under the post that sends short post url to twitter"
+msgstr "Botão de Retweet abaixo do post para enviar a url encurtada para o Twitter"
+
+#: ../../zipli-retweet-settings.php:36
+msgid "Twitter Username"
+msgstr "Nome de Usuário"
+
+#: ../../zipli-retweet-settings.php:45
+msgid "Twitter Password"
+msgstr "Senha do Usuário"
+
+#: ../../zipli-retweet-settings.php:49
+msgid "(For send twitter message when publish a new post)"
+msgstr "(Envia uma mensagem para o Twitter quando um post é publicado)"
+
+#: ../../zipli-retweet-settings.php:56
+msgid "Save"
+msgstr "Salvar"
+
+#: ../../zipli-retweet-uninstall.php:15
+#: ../../zipli-retweet-uninstall.php:54
+msgid "Uninstall Zip.li Retweet"
+msgstr "Desinstalar Zip.li Retweet"
+
+#: ../../zipli-retweet-uninstall.php:19
+#: ../../zipli-retweet-uninstall.php:85
+msgid "UNINSTALL Zip.li Retweet"
+msgstr "DESINSTALAR Zip.li Retweet"
+
+#: ../../zipli-retweet-uninstall.php:21
+msgid "Options"
+msgstr "Options"
+
+#: ../../zipli-retweet-uninstall.php:26
+#, php-format
+msgid "<li>Option '%s' has been deleted.</li>"
+msgstr "<li>Option '%s' foi deletada com sucesso.</li>"
+
+#: ../../zipli-retweet-uninstall.php:29
+#, php-format
+msgid "<li>Error deleting Option '%s'.</li>"
+msgstr "<li>Erro ao deletar Option '%s'.</li>"
+
+#: ../../zipli-retweet-uninstall.php:46
+#, php-format
+msgid "<a href=\"%s\" class=\"button-primary\">Deactivate Zipli Retweet</a> Disable that plugin to conclude the uninstalling."
+msgstr "<a href=\"%s\" class=\"button-primary\">Desativar Zipli Retweet</a> Desative este plugin para concluir a desinstalação."
+
+#: ../../zipli-retweet-uninstall.php:55
+msgid "Uninstaling this plugin the options used by Zip.li Retweet will be removed."
+msgstr "Desinstalando esse plugin as options usadas pelo Zip.li Retweet serão removidas."
+
+#: ../../zipli-retweet-uninstall.php:59
+msgid "The following WordPress Options will be deleted:"
+msgstr "As seguintes options do Wordpress serão deletadas:"
+
+#: ../../zipli-retweet-uninstall.php:66
+msgid "WordPress Options"
+msgstr "WordPress Options"
+
+#: ../../zipli-retweet-uninstall.php:82
+msgid "Yes. Uninstall Zip.li Retweet now"
+msgstr "Yes. Desinstalar Zip.li Retweet"
+
+#: ../../zipli-retweet.php:66
+msgid "Uninstall"
+msgstr "Desinstalar"
+
+#: ../../zipli-retweet.php:97
+#, fuzzy
+msgid "Retweet this post"
+msgstr "Botão de Retweet"
+
+#: ../../zipli-retweet.php:164
+#, php-format
+msgid "<div class = 'error'><p>%s <strong>Zip.li Retweet</strong> %s <a href = 'admin.php?page=zipli-retweet/zipli-retweet-settings.php'>%s</a></p></div>"
+msgstr "<div class = 'error'><p>Atenção: <strong>Zipli Retweet</strong> Modifique o nome de usuário <a href = 'admin.php?page=zipli-retweet/zipli-retweet-settings.php'>Configurações do Plugin</a></p></div>"
+
+#: ../../zipli-retweet.php:164
+msgid "Warning:"
+msgstr "Atenção:"
+
+#: ../../zipli-retweet.php:164
+msgid "Change the User Name"
+msgstr "Mude o nome de usuário em"
+
+#: ../../zipli-retweet.php:164
+msgid "Plugin Settings"
+msgstr "Configurações do Plugin"
+
+#~ msgid "NOTE:"
+#~ msgstr "NOTA:"
+#~ msgid "The Options by Zip.li Retweet<strong> WILL </strong> be deleted."
+#~ msgstr "As Options de Zip.li Retweet<strong> SERÃO </strong> deletadas."
+#~ msgid "WARNING:"
+#~ msgstr "ATENÇÃO"
+#~ msgid ""
+#~ "Once uninstalled, this cannot be undone. You should use a Database Backup "
+#~ "plugin of WordPress to back up all the data first."
+#~ msgstr "Uma vez desinstalado, não poderá ser desfeito."
+#~ msgid ""
+#~ "You Are About To UNINSTALL Zip.li Retweet From WordPress.\\nThis Action "
+#~ "Is Not Reversible.\\n\\n Choose [Cancel] To Stop, [OK] To Uninstall."
+#~ msgstr ""
+#~ "Você está a ponto de desinstalar Zip.li Retweet do WordPress.\\nIsso não "
+#~ "éreversível.\\n\\n Escolha [Cancel] para cancelar, [OK] para Desinstalar."
+#~ msgid "Button below the post:"
+#~ msgstr "Botão abaixo do post"
+#~ msgid "(Optional for who use just retweet)"
+#~ msgstr "(Opcional para quem usa apenas o botão de retweet)"
+#~ msgid "It determines the user name from twitter"
+#~ msgstr "Determina o nome do usuário do Twitter"
+
